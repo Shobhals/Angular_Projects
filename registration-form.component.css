@@ -1,0 +1,13 @@
+.margin {
+    width: 0;
+    padding: 0;
+    border: 0ch;
+}
+
+.first {
+    text-align: left;
+}
+
+.form-group {
+    text-align: center;
+}
